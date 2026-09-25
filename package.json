@@ -1,0 +1,10 @@
+{
+  "name": "cross-agent-subtask",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A portable /subtask command for launching background subagents across AI coding agents.",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  }
+}

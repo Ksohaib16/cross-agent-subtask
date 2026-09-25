@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+
+# Keep local credentials and environment files out of the repository.
+.env
+.env.*
+!.env.example
+
+# Local tool and editor state.
+.vscode/
+.idea/
+node_modules/
