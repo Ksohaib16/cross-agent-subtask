@@ -252,9 +252,9 @@ npm test
 
 The validator checks required adapters, registration examples, prompts, and security documentation. It does not replace testing the command inside each client surface.
 
-## Contributing
+## Contributions
 
-Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting changes. Do not include credentials, private paths, personal data, or unrelated generated files in a pull request.
+This project is published for people to use, install, and star. It is not accepting outside contributions, and pull requests will not be reviewed or merged.
 
 ## License
 
